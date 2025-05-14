@@ -1,20 +1,24 @@
-import { HiShieldCheck } from "react-icons/hi";
-import { MdCancel, MdAnalytics } from "react-icons/md";
+import {
+  ShieldFillCheck,
+  XCircleFill,
+  ClipboardDataFill
+} from 'react-bootstrap-icons';
+
 const data = [
   {
-    icon: <HiShieldCheck/>,
+    icon: <ShieldFillCheck/>,
     heading: "Best interest rates on the market",
     detail:
       "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
   },
   {
-    icon: <MdCancel />,
+    icon: <XCircleFill />,
     heading: "Prevent unstable prices",
     detail:
       "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
   },
   {
-    icon: <MdAnalytics />,
+    icon: <ClipboardDataFill />,
     heading: "Best price on the market",
     detail:
       "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
