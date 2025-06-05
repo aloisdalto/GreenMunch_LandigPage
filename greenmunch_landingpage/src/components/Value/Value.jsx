@@ -15,23 +15,23 @@ import data from "../../utils/accordion";
 const Value = () => {
     const [className, setClassName] = useState(null)
     return (
-        <section className="v-wrapper">
+        <section className="v-wrapper" id="preguntas">
             <div className="paddings innerWidth flexCenter v-container">
                 {/* left side */} 
                 <div className="v-left">
                     <div className="image-container">
-                        <img src="./value.png" alt="Value"/>
+                        <img src="./value.webp" alt="Value"/>
                     </div>
                 </div>
 
                 {/* right side */} 
                 <div className="flexColStart v-right">
-                    <span className="orangeText">Our Value</span>
-                    <span className="primaryText">Value We Give to You</span>
+                    <span className="orangeText">Algo más de información</span>
+                    <span className="primaryText">Preguntas Frecuentes</span>
                     <span className="secondaryText">
-                        We always ready to help by providijng the best services for You 
+                        En GreenMunch, estamos comprometidos a ofrecerte los mejores productos
                         <br />
-                        We believe a good blace to lice can make your life better
+                        Creemos que una alimentación nutritiva puede transformar tu vida 
                     </span>
 
                     <Accordion

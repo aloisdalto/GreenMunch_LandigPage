@@ -6,22 +6,24 @@ import {
 
 const data = [
   {
-    icon: <ShieldFillCheck/>,
-    heading: "Best interest rates on the market",
+    icon: <ShieldFillCheck />,
+    heading: "Comprometidos con la salud y el bienestar",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "En GreenMunch, ofrecemos productos que promueven un estilo de vida saludable, asegurando que cada bocado cuente para tu bienestar.",
   },
   {
     icon: <XCircleFill />,
-    heading: "Prevent unstable prices",
+    heading: "Precios justos y transparentes",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Nos esforzamos por mantener precios estables y accesibles, para que puedas disfrutar de alimentos saludables sin preocupaciones.",
   },
   {
     icon: <ClipboardDataFill />,
-    heading: "Best price on the market",
+    heading: "Calidad garantizada en cada producto",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Seleccionamos cuidadosamente nuestros ingredientes para ofrecerte solo lo mejor, porque tu salud merece la máxima calidad.",
   },
 ];
+
+
 export default data;

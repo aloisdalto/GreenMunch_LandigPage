@@ -12,6 +12,14 @@
     font-weight: 500;
 }
 
+.location{
+    color: #88bf50 !important;
+}
+
+.orange{
+    color: #f26513;
+}
+
 @media (max-width: 768px) {
     .f-container{
         justify-content: center;

@@ -16,39 +16,39 @@ const Hero = () => {
                             initial={{y: "2rem" , opacity:0}}
                             animate={{y: 0, opacity:1}}
                             transition={{duration:2, type:"spring"}}>
-                            Discover <br/> Most Suitable <br/> Property
+                            Descubre <br/> El Mejor Sabor <br/> Natural
                         </motion.h1>
                     </div>
                     <div className="flexColStart hero-des">
-                        <span className="secondaryText">Lorem ipsum, dolor sit amet consectetur adipisicing elit.</span>
-                        <span className="secondaryText">culpa commodi exercitationem minus voluptatum debitis.</span>
+                        <span className="secondaryText">Destaca la propuesta de valor de GreenMunch,</span>
+                        <span className="secondaryText">enfocándose en la nutrición y el bienestar.</span>
                     </div>
                     <div className="flexCenter search-bar">
-                        <Icon.GeoAlt color="var(--blue)" size={25} />
+                        <Icon.GeoAlt color="var(--black)" size={25} />
                         <input type="text" />
-                        <button className="button">Search</button>
+                        <button className="button">Buscar</button>
                     </div>
                     <div className="flexCenter stats">
                         <div className="flexColCenter stat">
                             <span>
-                                <CountUp start={8800} end={9000} duration={4}/>
+                                <CountUp start={400} end={1000} duration={3}/>
                                 <span>+</span>
                             </span>
-                            <span className="secondaryText">Premiun Products</span>
+                            <span className="secondaryText">Productos Premium</span>
                         </div>
                         <div className="flexColCenter stat">
                             <span>
                                 <CountUp start={1950} end={2000} duration={4}/>
                                 <span>+</span>
                             </span>
-                            <span className="secondaryText">Happy Customers</span>
+                            <span className="secondaryText">Clientes Felices</span>
                         </div>
                         <div className="flexColCenter stat">
                             <span>
-                                <CountUp end={28}/>
+                                <CountUp end={18}/>
                                 <span>+</span>
                             </span>
-                            <span className="secondaryText">Award Winning</span>
+                            <span className="secondaryText">Años de Experiencia</span>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ const Hero = () => {
                     initial={{x: "7rem" , opacity:0}}
                     animate={{x: 0, opacity:1}}
                     transition={{duration:2, type:"spring"}}>
-                        <img src="./hero-image.png" alt="Hero" />
+                        <img src="./hero-image.webp" alt="Hero" />
                     </motion.div>
                 </div>
             </div>

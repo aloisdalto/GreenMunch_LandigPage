@@ -18,8 +18,10 @@
 }
 
 .r-card>img{
+    height: 200px;
     width: 100%;
     max-width: 15rem;
+    border-radius: 5px;
 }
 
 .r-card>:nth-child(2){
@@ -61,9 +63,9 @@
 .r-buttons button{
     font-size: 1.2rem;
     padding: 0.2rem 0.8rem;
-    color: blue;
+    color: #f26513;
     border: none;
-    border-radius: 5ox;
+    border-radius: 5px;
     background-color: white;
     cursor: pointer;
 }

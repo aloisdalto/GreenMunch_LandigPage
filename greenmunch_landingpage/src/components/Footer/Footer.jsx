@@ -8,18 +8,19 @@ const Footer = () => {
                 {/* left side */}
                 <div className="flexColStart f-left">
                     <img src="./logo2.png" alt="Logo" width={120}/>
-                    <span className="secondaryText">Our vision is to make all people <br />the best place to live for them.</span>
+                    <span className="secondaryText">Nuestra visión es ofrecer a todas las personas, <br />mejores opciones saludables para mejorar su vida.</span>
+
                 </div>
 
                 {/* right side */}
                 <div className="flexColStart f-right">
-                    <span className="primaryText">Information</span>
-                    <span className="secondaryText">145 New York, FL 5467, USA</span>
+                    <span className="primaryText">Información</span>
+                    <span className="secondaryText location">Ciudad Guayana, Venezuela</span>
                     <div className="flexCenter f-menu">
-                        <span>Property</span>
-                        <span>Services</span>
-                        <span>Product</span>
-                        <span>About Us</span>
+                        <span className="orange">Property</span>
+                        <span className="orange">Services</span>
+                        <span className="orange">Product</span>
+                        <span className="orange">About Us</span>
                     </div>
                 </div>
             </div>

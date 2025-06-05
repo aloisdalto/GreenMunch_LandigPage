@@ -17,21 +17,21 @@ const Header = () => {
                 <img src="./logo.png" alt="logo" width={100}/>
                 <OutsideClickHandler onOutsideClick={() => setMenuOpened(false)}>
                     <div className="h-menu" style={getMenuStyles(menuOpened)}>
-                        <a href="">
-                            Residencies
+                        <a href="#productos">
+                            Productos
                         </a>
-                        <a href="">
-                            Our Value
+                        <a href="#preguntas">
+                            Preguntas
                         </a>
-                        <a href="">
-                            Contact Us
+                        <a href="#contactanos">
+                            Contáctanos
                         </a>
-                        <a href="">
-                            Get Started
+                        <a href="#empecemos">
+                            Empecemos
                         </a>
                         <button className="button">
-                            <a href="">
-                                Contact
+                            <a href="#">
+                                Contacto
                             </a>
                         </button>
                     </div>   

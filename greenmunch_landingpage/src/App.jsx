@@ -16,7 +16,7 @@ function App() {
         <Header />
         <Hero />
       </div>
-      <Companies />
+      {/* <Companies /> */}
       <Residencies />
       <Value />
       <Contact />

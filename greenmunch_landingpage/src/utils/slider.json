@@ -1,38 +1,38 @@
 [
-    {
-      "name": "Alivasa Priva Jardin",
-      "price": "47,043",
-      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-      "image": "./r1.png"
-    },
-    {
-      "name": "Asattisa Garden City",
-      "price": "66,353",
-      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-      "image": "./r2.png"
-    },
-    {
-      "name": "Citralan Puri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./r3.png"
-    },
-    {
-      "name": "Alivasa Priva Jardin",
-      "price": "47,043",
-      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-      "image": "./r1.png"
-    },
-    {
-      "name": "Asattisa Garden City",
-      "price": "66,353",
-      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-      "image": "./r2.png"
-    },
-    {
-      "name": "Citralan Puri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./r3.png"
-    }
+  {
+    "name": "Tostones con Ajo",
+    "price": "5.99",
+    "detail": "Crujientes tostones con un toque de ajo, perfectos para picar.",
+    "image": "./tostones_con_ajo.webp"
+  },
+  {
+    "name": "Maní Natural",
+    "price": "3.49",
+    "detail": "Delicioso maní natural, una fuente de energía saludable.",
+    "image": "./mani_natural.webp"
+  },
+  {
+    "name": "Maní Mixto",
+    "price": "4.29",
+    "detail": "Mezcla de maní con frutos secos, ideal para disfrutar en cualquier momento.",
+    "image": "./mani_mixto.webp"
+  },
+  {
+    "name": "Maní Ajonjolí",
+    "price": "4.79",
+    "detail": "Maní tostado con ajonjolí, un sabor único y nutritivo.",
+    "image": "./mani_ajonjoli.webp"
+  },
+  {
+    "name": "Maní Dulce",
+    "price": "3.99",
+    "detail": "Maní dulce y crocante, un bocadillo que encanta a todos.",
+    "image": "./mani_dulce.webp"
+  },
+  {
+    "name": "Nueces",
+    "price": "6.49",
+    "detail": "Nueces frescas y crujientes, ricas en antioxidantes.",
+    "image": "./nueces.webp"
+  }
 ]
